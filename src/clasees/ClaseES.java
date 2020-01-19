@@ -26,11 +26,11 @@ public class ClaseES {
         
         System.out.println("El numero devuelto es "+entero);
         
-        entero=ES.leerEntero("Introduce un nº entero ",10);
+        entero=ES.leerEntero("Introduce un nº entero igual o mayor de 10 ",10);
         
         System.out.println("El nº devuelto es: "+entero);
         
-        entero=ES.leerEntero(10,20,"Introduce un nº entero ");
+        entero=ES.leerEntero(10,20,"Introduce un nº entero entre 10 y 20 ");
         
         System.out.println("El nº devuelto es: "+entero);
         
@@ -50,7 +50,7 @@ public class ClaseES {
         
         System.out.println("El nº devuelto es: "+numReal);
         
-        numReal=ES.leerReal("Introduce un número real",15);
+        numReal=ES.leerReal("Introduce un número real igual ó mayor de 15",15);
         
         System.out.println("El nº devuelto es: "+numReal);
         
