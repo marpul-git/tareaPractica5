@@ -13,6 +13,8 @@ public class ClaseES {
 
     /**
      * @param args the command line arguments
+     Comprobar sincronizacion Practica 5
+     
      */
     public static void main(String[] args) {
         
